@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJANI586/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RANJANI586/LeetCode/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RANJANI586/LeetCode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RANJANI586/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
