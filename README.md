@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RANJANI586/LeetCode/tree/master/0322-coin-change) |
+## Graph Theory
+|  |
+| ------- |
+| [1615-maximal-network-rank](https://github.com/RANJANI586/LeetCode/tree/master/1615-maximal-network-rank) |
 <!---LeetCode Topics End-->
