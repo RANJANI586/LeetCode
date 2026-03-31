@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RANJANI586/LeetCode/tree/master/0007-reverse-integer) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RANJANI586/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
